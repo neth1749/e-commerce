@@ -15,6 +15,7 @@ export default {
     methods : {
         shopnow(promotion) {
             alert("let's shop" + promotion.content)
+            
         }
     },
 
